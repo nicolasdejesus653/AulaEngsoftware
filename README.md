@@ -1,1 +1,1 @@
-# AulaEngsoftware
+No meu entendimento o versionamento é importante para voce compreender cada etapa do seu projeto, alem de ter pontos de salvamento caso aconteça algum conflito no futuro e poder ver as mudanças feitas e etc
